@@ -19,6 +19,6 @@ This repository contains the source code for a **Digital Marketing Website** nam
 - **Hosting:** GitHub Pages / Hostinger  
 
 ---
-
+please note the CSS and js files are added inside the html files on different sections for easy hosting.
 
 
